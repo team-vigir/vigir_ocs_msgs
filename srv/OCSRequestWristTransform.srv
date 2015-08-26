@@ -1,0 +1,8 @@
+uint8 R_HAND_T_PALM=0
+uint8 R_HAND_T_MARKER=1
+uint8 L_HAND_T_PALM=2
+uint8 L_HAND_T_MARKER=3
+
+uint8 transform_type
+---
+geometry_msgs/Pose transform
