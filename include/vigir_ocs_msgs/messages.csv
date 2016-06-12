@@ -26,7 +26,7 @@
 23,Behavior Active
 24,Behavior Done
 29,Behavior Error
-# Miscelaneous statuses
+# Miscellaneous statuses
 30,Controller Stand Prep Transition
 31,MoveIt - Goal Occupied
 32,MoveIt - Start Occupied

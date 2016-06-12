@@ -1,4 +1,4 @@
-# any rviz property in question to be changed, should be alligned with bools to act like a map <string,bool>
+# any rviz property in question to be changed, should be aligned with bools to act like a map <string,bool>
 string[] properties    #RENAME THIS TO DISPLAY
 # toggle state
 bool[] visible
