@@ -71,7 +71,7 @@ public:
         BEHAVIOR_ACTIVE                             = 23,
         BEHAVIOR_DONE                               = 24,
         BEHAVIOR_ERROR                              = 29,  // Bound range for behavior errors
-        // Miscelaneous statues
+        // Miscellaneous statues
         CONTROLLER_STAND_PREP                       = 30,
         PLANNER_GOAL_OCCUPIED                       = 31,
         PLANNER_START_OCCUPIED                      = 32,

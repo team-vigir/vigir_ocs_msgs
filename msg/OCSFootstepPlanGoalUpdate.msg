@@ -1,5 +1,5 @@
 uint8 FEEDBACK  = 0  # from manager to nodes -> latest poses
-uint8 CLEAR     = 1  # from nodes to manager -> if the plan request was succesful, need to clear goal
+uint8 CLEAR     = 1  # from nodes to manager -> if the plan request was successful, need to clear goal
 uint8 GOAL      = 2  # from nodes to manager -> update goal
 uint8 LEFT      = 3  # from nodes to manager -> update left foot
 uint8 RIGHT     = 4  # from nodes to manager -> update right foot
